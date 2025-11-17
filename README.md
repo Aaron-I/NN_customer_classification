@@ -107,18 +107,20 @@ def train_model(model, train_loader, criterion, optimizer, epochs):
 
 ### Confusion Matrix
 
-<img width="878" height="589" alt="image" src="https://github.com/user-attachments/assets/2e510733-b499-4064-b736-99d2a85062b6" />
+<img width="948" height="595" alt="image" src="https://github.com/user-attachments/assets/99b292b9-9b49-4b61-b2ee-69cd620c0385" />
 
 
 ### Classification Report
 
-<img width="1395" height="575" alt="image" src="https://github.com/user-attachments/assets/e803bea1-b127-4b6d-99b3-915f2e596cfa" />
+<img width="1702" height="586" alt="image" src="https://github.com/user-attachments/assets/bc68e176-2783-4cfd-a37c-cfe4d2d7d696" />
+
 
 
 
 ### New Sample Data Prediction
 
-<img width="618" height="108" alt="image" src="https://github.com/user-attachments/assets/d0ac9a52-1d5a-4405-840d-9d00a02fc1fb" />
+<img width="1111" height="405" alt="image" src="https://github.com/user-attachments/assets/9c0bc72e-3e9d-4d89-8505-46f1975f29d4" />
+
 
 
 
